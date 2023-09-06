@@ -1,22 +1,22 @@
-##Ar Condicionado 
+## Ar Condicionado 
 
-#Autor 
+## Autor 
 Lucas Silva Moreira Aquino 
 
-##Java MySQL - Sistema para gestão de serviços
+## Java MySQL - Sistema para gestão de serviços
 Desenvolva passo a passo do zero um sistema para gestão de ordem de serviços (Sistema OS) de uma assistência técnica de computadores e periféricos.
 
-##Instalação e Demonstração do Projeto
+## Instalação e Demonstração do Projeto
 Essas instruções fornecerão uma cópia do projeto instalado e funcionando em sua máquina local (Windows) para fins de desenvolvimento e testes.
 
-##Pré requisitos:
+## Pré requisitos:
 É necessário ter instalado no computador:
 
 • Java JDK 8;
 
 • XAMPP.
 
-##Instalação:
+## Instalação:
 • Inicie o XAMPP;
 ![xampp](https://github.com/lucas2k2/sistemaOS/assets/104094452/73ff17ba-22f3-4e80-b9ca-0e44abfac2d2)
 
